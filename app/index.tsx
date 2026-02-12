@@ -326,7 +326,7 @@ export default function BirthdayScreen() {
             entering={FadeInUp.duration(1000).delay(1000)}
             style={styles.heroSubtitle}
           >
-            To the most talented, kind-hearted girl who codes and sings like magic.
+            To my talented, kind-hearteddd girl who codes & sings like like an angelll 😭💖.
           </Animated.Text>
 
           <Animated.View entering={FadeInUp.duration(800).delay(1400)}>
