@@ -413,7 +413,7 @@ export default function BirthdayScreen() {
 
           <View style={styles.specialList}>
             <SpecialPoint
-              text="Your strong, independent spirit makes me love you even more."
+              text="Your are strong, independent and cuteee girl."
               delay={100}
               icon="star"
             />
