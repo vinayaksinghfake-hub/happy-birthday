@@ -469,7 +469,7 @@ export default function BirthdayScreen() {
                 On your special day, I want to tell you how I feel. I love you deeply, and I see you as my happiness, my peace, and my greatest blessing.
               </Text>
               <Text style={styles.letterBody}>
-                I admire you more every day as I watch you chase your dreams, turn your ideas into code, and sing with so much heart.
+                I admire you more every day as I watch you chase your dreams, work so hard, and sing with passion.
               </Text>
               <Text style={styles.letterBody}>
                 I promise to stand beside you, support you, and celebrate you through every moment, today and always.
